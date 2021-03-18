@@ -5,7 +5,7 @@
 The diagnosis of heart disease is usually based on signs, symptoms and physical examination of the patient. There are several factors that increase the risk of heart disease, such as smoking habit, body cholesterol level, family history of heart disease, obesity, high blood pressure, and lack of physical exercise.
 
 
-This is the code for Heart Disease Analysis and Prediction Project made as a part of Machine Learning and Data Science Course at [ZeroToMastery Acadamy](https://zerotomastery.io/).
+This is the code for Heart Disease Analysis and Prediction Project made as a part of Machine Learning and Data Science Course at [ZeroToMastery Acadamy](https://academy.zerotomastery.io/p/complete-machine-learning-and-data-science-bootcamp-zero-to-mastery).
 
 
 ## Clone Repository
